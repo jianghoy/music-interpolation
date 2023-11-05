@@ -6,8 +6,8 @@ import numpy.typing as npt
 
 from music_interpolation.encodec_interpolation import EncodecInterpolation
 
-AUDIO_A_PATH = "tests/data/house-equanimity-10s.mp3"
-AUDIO_B_PATH = "tests/data/they-know-me-10s.mp3"
+AUDIO_A_PATH = "tests/data/After_Dark-TRIMMED.mp3"
+AUDIO_B_PATH = "tests/data/Dark_BEACH_TRIMMED.mp3"
 
 NDFloat = npt.NDArray[np.float_]
 
