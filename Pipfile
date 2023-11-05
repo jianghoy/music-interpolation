@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-audiocraft = "*"
 librosa = "*"
 music_interpolation = { editable = true, path = "." }
 numpy = "*"
